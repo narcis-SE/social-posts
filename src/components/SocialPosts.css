@@ -19,6 +19,9 @@
     color: white;
     font-weight: bold;
 }
+.SocialPosts button:hover{
+    cursor: pointer;
+}
 
 .box{
     border: 2px solid black;

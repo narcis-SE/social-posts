@@ -21,8 +21,12 @@
 }
 
 .wrapper svg{
+    float: right; 
+}
+
+.wrapper svg{
     float: right;
-    
+    cursor: pointer; 
 }
 .border-bottom p{
     border-bottom: 1px solid gray;
