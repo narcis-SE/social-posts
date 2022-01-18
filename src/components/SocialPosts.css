@@ -1,0 +1,30 @@
+.SocialPosts{
+    
+}
+
+.SocialPosts h1{
+    font-family: 'Caveat', cursive;
+    color: #79c5e8;
+    text-align: center;
+
+}
+.SocialPosts button{
+    background-color: #79c5e8;
+    width: 50%;
+    margin-left: 25%;
+    height: 50px;    
+    font-family:'Lato', sans-serif;
+    font-size: large;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.box{
+    border: 2px solid black;
+    width: 50%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}

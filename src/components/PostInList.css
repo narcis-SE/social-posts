@@ -1,0 +1,32 @@
+.wrapper{
+}
+
+.bold{
+    font-size: 150%;
+    font-weight: bold;
+    font-family:'Lato', sans-serif;
+    
+}
+
+.bold p{
+    margin-bottom: 5px;
+}
+.wrapper p{
+    font-family:'Lato', sans-serif;
+}
+
+.PostInList{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.wrapper svg{
+    float: right;
+    
+}
+.border-bottom p{
+    border-bottom: 1px solid gray;
+    margin-top: 0;
+}
+
+
